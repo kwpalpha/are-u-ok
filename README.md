@@ -1,7 +1,7 @@
 # Are u ok
 
 
-update
+update2
 ## 目录
 
 - [使用须知](#使用须知)
